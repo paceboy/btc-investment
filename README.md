@@ -3,12 +3,6 @@
 
 <img width="822" alt="image" src="https://github.com/user-attachments/assets/1c0033a1-178e-4a28-9052-38e282352c24" />
 
-<img width="455" alt="image" src="https://github.com/user-attachments/assets/3978fae0-de48-4875-b004-251c08a3dbaa" />
-
-<img width="457" alt="image" src="https://github.com/user-attachments/assets/92af69f3-4b06-45bb-ac80-261d07f5b963" />
-
-<img width="430" alt="image" src="https://github.com/user-attachments/assets/51e404d3-6d78-4f03-a32e-00b6518bf612" />
-
 ##
 通过法币交易来入场，即法币购买USDT。购买后，可以通过线路1来进行定投理财。往往会提前几天进行购买USDT，当定投时间未到时，可讲USDT放入余币宝，让其产生利息。当定投时间到后，可将余币宝的USDT转出，让定投单子自动扣款，这样就完成了定投。
 
@@ -22,3 +16,11 @@
 
 以上流程是在芝麻开门交易所完成，链接如下：
 https://www.gt-io.best/signup/VVgRXQhY?ref_type=103
+
+以下为交易所app的功能截图：
+
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/3978fae0-de48-4875-b004-251c08a3dbaa" />
+
+<img width="457" alt="image" src="https://github.com/user-attachments/assets/92af69f3-4b06-45bb-ac80-261d07f5b963" />
+
+<img width="430" alt="image" src="https://github.com/user-attachments/assets/51e404d3-6d78-4f03-a32e-00b6518bf612" />
