@@ -1,7 +1,7 @@
 # btc-investment
 投资比特币的方式
 
-以下流程是在芝麻开门交易所完成，链接为：https://www.gt-io.best/signup/VVgRXQhY?ref_type=103
+以下流程是在芝麻开门交易所完成，链接为：https://www.gateweb.store/share/vvgrxqhy
 
 <img width="982" alt="截屏2025-03-08 22 52 35" src="https://github.com/user-attachments/assets/ea458865-e37d-4a89-9a1b-c2be346c2b28" />
 
