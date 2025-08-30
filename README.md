@@ -19,6 +19,7 @@
 
 以上流程是在芝麻开门交易所完成，链接如下：
 https://www.gt-io.best/signup/VVgRXQhY?ref_type=103
+
 https://www.gt-io.best/zh/signup?ref=VVgRXQhY&ref_type=103
 
 以下为交易所app的功能截图：
