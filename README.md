@@ -18,9 +18,8 @@
 其实还有个风险很低的玩法就是，将法币置换为USDT，然后转入余币宝，每个月利用生息后的USDT进行定投，这样你的定投成本就为0了，但这样就是需要持有的USDT比较多，否则余币宝的利息会比较少。
 
 以上流程是在芝麻开门交易所完成，链接如下：
-https://www.gt-io.best/signup/VVgRXQhY?ref_type=103
 
-https://www.gt-io.best/zh/signup?ref=VVgRXQhY&ref_type=103
+https://www.gateweb.xyz/share/vvgrxqhy
 
 以下为交易所app的功能截图：
 
