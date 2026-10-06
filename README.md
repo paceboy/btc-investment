@@ -1,9 +1,9 @@
 # btc-investment
 投资比特币的方式
 
-以下流程是在芝麻开门交易所完成，链接为：https://www.gateweb.store/share/vvgrxqhy
+以下流程是在芝麻开门交易所完成，链接为：https://www.gatesites.cc/share/vvgrxqhy
 
-<img width="1904" height="1172" alt="image" src="https://github.com/user-attachments/assets/43c5d9c4-a2e9-4872-8ef4-9c02d8287f86" />
+<img width="1904" height="1172" alt="image" src="https://www.gatesites.cc/share/vvgrxqhy" />
 
 ##
 通过法币交易来入场，即法币购买USDT。
